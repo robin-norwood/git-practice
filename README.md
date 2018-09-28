@@ -24,3 +24,7 @@ Or use `git commit -m "<message>"`
 - Don't end with a `.`
 
 For more advice, see: https://chris.beams.io/posts/git-commit/
+
+## Merging
+
+Merging means to bring the changes from one branch into another.
