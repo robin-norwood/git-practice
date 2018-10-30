@@ -13,6 +13,10 @@
 - git checkout -b: Create branch, then check it out
 - git branch: List branches
 - git merge: Merge changes from different branches
+- git remote add <remote> <url>: Add a new <remote> at <url>
+- git remote -v: List remote repositories
+- git push -u <remote> <branch>: Push <branch> to <remote>, and set default upstream for <branch>
+  
 
 ## What's a branch?
 
